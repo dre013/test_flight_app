@@ -1,2 +1,2 @@
 # test_flight_app
-My Java education
+My Java education on the JDBC
